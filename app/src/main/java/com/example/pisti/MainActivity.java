@@ -1504,8 +1504,3 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 }
-/*
- * 1)Eğer eşitse fonksyonunda pişti algoritması ekle
-
-
- */
